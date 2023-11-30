@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(0, 217, 255, 0.792);
+}
+header{
+    font: normal 20pt Arial;
+    color: rgb(0, 0, 0);
+    text-align: center ;
+}
+
+form {
+    background: rgb(255, 253, 253);
+    padding: 15px;
+    width: 500px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 5%;
+}
+.media{
+    font: normal 18pt Arial;
+}
+
+.nota{
+    border-radius: 10px;
+    width: 200px;
+    height: 20px;
+    font-size: 15pt;
+}
+#enviar{
+    display: block;
+    margin: auto;
+    width: 120px;
+    height: 20px;
+    border-radius: 10px;
+    background: transparent;
+}
